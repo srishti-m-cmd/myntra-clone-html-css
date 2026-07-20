@@ -40,14 +40,6 @@ no cap, kept it minimal on purpose:
 - 🎯 navbar + banner section that mimics the real deal
 - 🧵 clean, readable code (future me will thank present me)
 
-## 👀 preview
-
-<div align="center">
-<img src="img1.webp" width="23%">
-<img src="img2.webp" width="23%">
-<img src="img3.webp" width="23%">
-<img src="img4.webp" width="23%">
-</div>
 
 ## 🚀 run it yourself
 
